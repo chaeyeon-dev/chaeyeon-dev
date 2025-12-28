@@ -1,7 +1,7 @@
 ## About me
 
-<h1 align="center">Hi 👋, I'm A developer turning ideas into code.</h1>
-<h3 align="center">A developer who builds dreams with code</h3>
+<h1 align="left">Hi 👋, I'm A developer turning ideas into code.</h1>
+<h3 align="left">A developer who builds dreams with code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaeyeon-dev&label=Profile%20views&color=0e75b6&style=flat" alt="chaeyeon-dev" /> </p>
 
